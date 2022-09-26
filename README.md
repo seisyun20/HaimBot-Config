@@ -1,0 +1,2 @@
+# haimconfig
+Haimbot配置
